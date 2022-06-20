@@ -51,9 +51,9 @@ const Navbar = () => {
 
         <NavButton title="Menu" customFunc={handleActiveMenu} color={currentColor} icon={<AiOutlineMenu />} />
 
-        <h2 className="font-extrabold text-2xl hidden sm:block justify-center items-center mt-auto mb-auto">
-        INDIA CLIMATE & ENERGY DASHBOARD
-        </h2>
+        <h3 className="font-extrabold text-xl hidden sm:block justify-center items-center mt-auto mb-auto">
+        INDIA ENERGY MODEL(MESSAGEix TOOL) FOR ENERGY PLANNING
+        </h3>
 
       <div className="flex justify-center items-center">
         <TooltipComponent content="IIT Kanpur" position="BottomCenter">
