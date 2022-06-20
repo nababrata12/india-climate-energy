@@ -79,7 +79,7 @@ const Navbar = () => {
             <a href="https://www.niti.gov.in/" target="_blank" rel="noopener noreferrer">
             <img
               className="w-full h-8"
-              src="https://niti.gov.in/edm/images/iess_logo_text.jpg"
+              src="http://www.niti.gov.in//sites/default/files/gbb-uploads/NITI-Aayog-logo-d7ykne.png"
               alt="user-profile"
             />
             </a>
@@ -87,10 +87,10 @@ const Navbar = () => {
         </TooltipComponent>
       </div>
       </div>
-      <h2 className="font-extrabold text-lg sm:hidden text-center
+      <h2 className="font-extrabold text-sm sm:hidden text-center
       justify-center items-center mt-auto mb-auto"
       >
-        INDIA CLIMATE & ENERGY DASHBOARD
+        INDIA ENERGY MODEL(MESSAGEix TOOL) FOR ENERGY PLANNING
       </h2>
     </div>
   );
