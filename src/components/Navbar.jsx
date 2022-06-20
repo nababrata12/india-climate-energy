@@ -56,19 +56,19 @@ const Navbar = () => {
         </h3>
 
       <div className="flex justify-center items-center">
-        <TooltipComponent content="IIT Kanpur" position="BottomCenter">
-          <div
-            className="flex items-center gap-2 cursor-pointer p-1 hover:bg-light-gray rounded-lg"
-          >
-            <a href="https://www.iitk.ac.in/" target="_blank" rel="noopener noreferrer">
-              <img
-                className="w-full h-8"
-                src="https://www.iitk.ac.in/new/images/logo/iitk-logo.svg"
-                alt="iitk logo"
-              />
-            </a>
-          </div>
-        </TooltipComponent>
+//         <TooltipComponent content="IIT Kanpur" position="BottomCenter">
+//           <div
+//             className="flex items-center gap-2 cursor-pointer p-1 hover:bg-light-gray rounded-lg"
+//           >
+//             <a href="https://www.iitk.ac.in/" target="_blank" rel="noopener noreferrer">
+//               <img
+//                 className="w-full h-8"
+//                 src="https://www.iitk.ac.in/new/images/logo/iitk-logo.svg"
+//                 alt="iitk logo"
+//               />
+//             </a>
+//           </div>
+//         </TooltipComponent>
 
         <div className="w-0.5 h-8 ml-2 bg-black mx-auto mb-auto mt-auto" />
 
