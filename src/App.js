@@ -65,7 +65,7 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/overview" element={<OverView />} />{/* pages  */}
+                <Route path="/energy" element={<OverView />} />{/* pages  */}
 
                 {/* apps  */}
 
