@@ -23,3 +23,5 @@ function OverView() {
 }
 
 export default OverView;
+
+// width: 1536px; height: 627px;
