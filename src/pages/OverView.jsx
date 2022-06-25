@@ -6,7 +6,7 @@ function OverView() {
       <iframe
         // width="1200px"
         // height="500px"
-        className="w-full h-screen md:w-auto"
+        className="w-full h-screen"
         src="https://public.tableau.com/views/23_16560971914550/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"
         title="YouTube video player"
         frameBorder="0"
