@@ -466,7 +466,7 @@ export const employeesGrid = [
 export const links = [
   {
     title: 'OverView',
-    path: '/overview',
+    path: '/energy',
     links: [
       {
         name: 'Energy',
